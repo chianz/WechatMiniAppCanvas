@@ -1,0 +1,2 @@
+# WechatMiniappCanvas
+微信小程序转发到朋友圈生成小程序码图文保存
